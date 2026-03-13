@@ -1,0 +1,1 @@
+# Contributing\n\nWe welcome contributions! Please follow these steps:\n1. Fork the repository.\n2. Create a feature branch.\n3. Make your changes.\n4. Ensure documentation is updated.\n5. Submit a pull request.\n\nPlease adhere to the coding style and include tests where applicable.
